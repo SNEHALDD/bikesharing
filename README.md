@@ -1,6 +1,6 @@
 # Bikesharing
 
-## Link to dashboard https://prod-useast-a.online.tableau.com/#/site/snehal1/workbooks/664235/views
+## Link to dashboard https://public.tableau.com/app/profile/snehal.desavale/viz/Bikesharing_Challenge_16630415857090/Bikesharing_story?publish=yes
 
 ## Overview of the analysis: Explain the purpose of this analysis.
 Create a story to convince the investors the bike-sharing program in Des Moines is a solid business proposal
@@ -47,7 +47,7 @@ Following image shows the changed format of tripduration column.
 
 
 ### Deliverable 3: Create a Story and Report for the Final Presentation
-Story also includes visualization of number of rides and also bike usage according to age of people.
+Story also includes visualization of number of rides and also pie chart of gender breakdown from the module.
 
 ## Summary: Provide a high-level summary of the results and two additional visualizations that you would perform with the given dataset.
 - The usage of bike in metropolitan areas is remarkably impressive. The lack of parking space for cars due to lot of buildings is encouraging customers to take advantage of the facility. The reliable customers base is male as compared to female but some of the schemes we can start to attract female customers.
