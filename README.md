@@ -22,8 +22,9 @@ Following image shows the changed format of tripduration column.
 <img width="321" alt="Number of trips" src="https://user-images.githubusercontent.com/106944351/189739818-ba70a7cc-8c95-4c03-80b7-9405348db9d6.png">
 
 
-2) Average Trip Duration - This data shows average trip duration according to their age. People born in 1891 and 1969 has highest trip duration as compared to other people.
-<img width="1307" alt="Average Trip Duration" src="https://user-images.githubusercontent.com/106944351/189740066-8d603477-51e8-4d7c-a8cb-70dbff01a379.png">
+2) Gender Breakdown - This graph shows usage of bikes by Males and Females.
+<img width="1289" alt="Gender Breakdown" src="https://user-images.githubusercontent.com/106944351/189813186-4e9e89ec-0271-4df2-9ddd-7a9e77e28945.png">
+
 
 3) Checkout Times for Users - This graph shows checkout times for users
 <img width="1300" alt="Checkout Times for Users" src="https://user-images.githubusercontent.com/106944351/189740101-afd183eb-4324-4dbd-ae36-9c4ab731410e.png">
