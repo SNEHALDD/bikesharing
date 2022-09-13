@@ -1,6 +1,6 @@
 # Bikesharing
 
-## Link to dashboard https://public.tableau.com/app/profile/snehal.desavale/viz/Bikesharing_Challenge_16630415857090/Bikesharing_story?publish=yes
+## [Link to Visualization](https://public.tableau.com/app/profile/snehal.desavale/viz/Bikesharing_Challenge_16630415857090/Bikesharing_story?publish=yes)
 
 ## Overview of the analysis: Explain the purpose of this analysis.
 Create a story to convince the investors the bike-sharing program in Des Moines is a solid business proposal
@@ -44,10 +44,16 @@ Following image shows the changed format of tripduration column.
 7) Trips by Gender by Weekday by user - The subscribers are using bikes on daily basis as compared to random customers.
 <img width="467" alt="User Trips by Gender by Weekday" src="https://user-images.githubusercontent.com/106944351/189740215-dadaf8ea-945a-46d1-a342-3ad74b79bced.png">
 
+8) Top Starting Locations-
+<img width="1300" alt="Top Starting Locations" src="https://user-images.githubusercontent.com/106944351/189816543-3b171fab-797f-472a-98f1-5c78e7b0b63a.png">
+
+9) Top Ending Locations -
+<img width="1279" alt="Top Ending Location" src="https://user-images.githubusercontent.com/106944351/189816579-5bdb181f-2d48-4eb8-ba23-23bc1142b0a8.png">
+
 
 
 ### Deliverable 3: Create a Story and Report for the Final Presentation
-Story also includes visualization of number of rides and also pie chart of gender breakdown from the module.
+Story also includes visualization of number of rides, pie chart of gender breakdown, top starting locations and top ending locations from the module.
 
 ## Summary: Provide a high-level summary of the results and two additional visualizations that you would perform with the given dataset.
 - The usage of bike in metropolitan areas is remarkably impressive. The lack of parking space for cars due to lot of buildings is encouraging customers to take advantage of the facility. The reliable customers base is male as compared to female but some of the schemes we can start to attract female customers.
