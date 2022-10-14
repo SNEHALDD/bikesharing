@@ -3,7 +3,7 @@
 ## [Link to Visualization](https://public.tableau.com/app/profile/snehal.desavale/viz/Bikesharing_Challenge_16630415857090/Bikesharing_story?publish=yes)
 
 ## Overview of the analysis: Explain the purpose of this analysis.
-This project showcased a business proposal for investors in Des Moines to demonstrate that a bike-sharing program is a solid business venture.
+This project showcases a business proposal for investors in Des Moines to demonstrate that a bike-sharing program is a solid business venture.
 
 For this analysis, Pandas needs to use to to change the "tripduration" column from an integer to a datetime datatype. Then, using the converted datatype, create a set of visualizations to:
 
